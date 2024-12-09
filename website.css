@@ -1,0 +1,350 @@
+.top{
+    height: 40px;
+    width: 100%;
+    background-color: black;
+    color: grey;
+    float: left;
+}
+h1{
+    font-size: 12px;
+}
+.h{
+    display: inline;
+    font-size: 15px;
+    padding-left: 20px;
+    float: left;
+    margin: 6px;
+}
+.m{
+    display: inline-block;
+    width: 500px;
+    margin-left: 10px;
+    color: white;
+}
+.box1{
+    height: 100%;
+    display: inline-block;
+    margin-left: 100px;
+    padding: 5px;
+   
+}
+.box{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: white;
+    display: inline-block;
+    margin-right: 5px;
+    
+}
+.phone{
+    height: 15px ;
+    width: 10px;
+    border: 1px solid black;
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+    margin: 5px 0px 0px 9.5px;
+}
+.second{
+    float: left;
+    height: 60px;
+    width: 100%;
+    background-color: rgb(69, 69, 210);
+    
+}
+.a{
+    font-size: 40px;
+    float: left;
+    padding-left: 60px;
+    color: rgb(215, 144, 12);
+    margin: 5px;
+    padding-right: 80px;
+}
+.ul{
+    float: left;
+    margin-right: 100px;
+}
+.li{
+    float: left;
+    list-style-type: none;
+    margin-right: 38px;
+    font-size: 20px;
+    color: white;
+}
+.h1{
+    font-size: 18px;
+    color: yellowgreen;
+    border-right: 2px solid black;
+}
+.big{
+    float: left;
+    height: 800px;
+    width: 100%;
+    background-image: url(pexels-sabel-blanco-662810-1480520.jpg);
+    color: white;
+    background-size: cover;
+    text-align: center;
+}
+h1{
+    font-size: 80px;
+}
+.green{
+    float: left;
+    height: 150px;
+    width: 100%;
+    background-color:rgb(48, 196, 48);
+    display: flex;
+    margin-bottom: 60px;
+}
+.green1{
+    height: 100%;
+    width: 25%;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 30px;
+    color: white;
+}
+.p{
+    display: inline;
+    color: blue;
+    font-size: 50px;
+    font-weight: 200;
+}
+.about{
+    
+    clear: both;
+    height: 500px;
+    width: 100%;
+    /* background-color: aqua; */
+    display: flex;
+}
+.leftabout{
+    height: 100%;
+    width: 40%;
+    /* padding: 30px; */
+    /* background-color: red; */
+}
+.rightabout{
+    height: 100%;
+    width: 60%;
+    /* background-color: yellow; */
+}
+.photo{
+    height: 50%;
+    width: 50%;
+    background-image: url(pexels-victorfreitas-703016.jpg);
+    border-radius: 20px;
+    background-size: contain;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0px 0px 50px;
+
+}
+.photo1{
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+    display: flex;
+    background-image: url(pexels-willpicturethis-1954524.jpg);
+    background-size: cover;
+    margin-bottom:-230px;
+    margin-right: -230px;
+
+}
+.but{
+    border-radius: 30px;
+    padding: 15px;
+    background-color: rgb(100, 239, 100);
+    font-size: 20px;
+    font-weight: 300;
+
+}
+.dabtop1{
+    height: 350px;
+    width: 300px;
+    float: left;
+    text-align: center;
+    box-shadow: 1px 1px 10px grey;
+    margin-left: 80px;
+}
+.dab{
+    height: 90px;
+    width: 60px;
+    border: 2px solid blue;
+    margin: 30px 0px 0px 120px;
+    border-radius: 5px;
+    
+}
+.dabtop2{
+    height: 350px;
+    width: 300px;
+    float: left;
+    text-align: center;
+    box-shadow: 1px 1px 10px grey;
+    margin-left: 90px;
+}
+.but1{
+    padding: 15px 40px 15px 40px;
+    font-size: 15px;
+    border-radius: 30px;
+    background-color: rgb(74, 226, 74);
+    border: 2px solid rgb(74, 226, 74);
+}
+.dabtop3{
+    height: 350px;
+    width: 300px;
+    float: left;
+    text-align: center;
+    box-shadow: 1px 1px 10px grey;
+    margin-left: 90px;
+}
+.dabtop4{
+    height: 350px;
+    width: 300px;
+    float: left;
+    text-align: center;
+    box-shadow: 1px 1px 10px grey;
+    margin-left: 80px;
+    margin-top: 60px;
+}
+.dabtop5{
+    height: 350px;
+    width: 300px;
+    float: left;
+    text-align: center;
+    box-shadow: 1px 1px 10px grey;
+    margin-left: 90px;
+    margin-top: 60px;
+}
+.dabtop6{
+    height: 350px;
+    width: 300px;
+    float: left;
+    text-align: center;
+    box-shadow: 1px 1px 10px grey;
+    margin-left: 90px;
+    margin-top: 60px;
+}
+.doubled1{
+    height: 300px;
+    width: 300px;
+    float: left;
+    margin-left: 80px;
+  
+}
+.doubled2{
+    height: 300px;
+    width: 300px;
+    float: left;
+    margin-left: 90px;
+
+  
+}
+.doubled3{
+    height: 300px;
+    width: 300px;
+    float: left;
+    margin-left: 90px;
+}
+.doubled4{
+    height: 300px;
+    width: 300px;
+    float: left;
+    margin-left: 80px;
+    margin-top: 60px;
+}
+.doubled5{
+    height: 300px;
+    width: 300px;
+    float: left;
+    margin-left: 90px;
+    margin-top: 60px;
+
+}
+.doubled6{
+    height: 300px;
+    width: 300px;
+    float: left;
+    margin-left: 90px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+
+}
+
+.double1{
+    height: 140px;
+    width: 140px;
+    background-color: rgb(103, 230, 103);
+    border-radius: 10px;
+}
+.double3{
+    height: 140px;
+    width: 132px;
+    background-color: rgb(67, 67, 199);
+    margin-left: 150px;
+    border-radius: 10px;
+
+}
+.double2{
+    height: 260px;
+    width: 260px;
+    background-image: url(pexels-willpicturethis-1954524.jpg);
+    background-size: cover;
+    margin-left: 12px;
+    margin-top: 12px;
+    position: absolute;
+    border-radius: 10px;
+}
+.black{
+    clear: both;
+    height: 400px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+}
+.blacktop{
+    height: 85%;
+    width: 100%;
+    display: flex;
+    gap: 20px;
+}
+.blackbottom{
+    height: 15%;
+    width: 100%;
+    /* margin-left: 20px; */
+    border-top: 2px solid white;
+
+}
+.black1{
+    height: 300px;
+    width: 22%;
+    /* background-color: red; */
+    margin-left: 18px;
+    
+}
+li{
+    line-height: 30px;
+}
+.p1{
+    color: white;
+    font-size: 20px;
+    display: inline;
+}
+ul{
+    list-style-type: square;
+}
+ul li{
+    color: white;
+    font-size: 20px;
+}
+
+
+
+
+
